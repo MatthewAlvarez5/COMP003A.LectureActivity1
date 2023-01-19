@@ -13,7 +13,7 @@ namespace COMP003A.LectureActivity1
         {
             Console.WriteLine("World, Hello!\n");       //classic coding line 
             Console.WriteLine("this is a string\n");    //this is indeed a string
-            Console.WriteLine("Matthew Alvarez");       //update???
+            Console.WriteLine("Matthew Alvarez");       //test 2
         }
     }
 }
